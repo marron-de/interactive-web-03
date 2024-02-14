@@ -3,6 +3,7 @@
 - Vite
 - nvm
 - lil-gui
+- gsap
 
 ### Three.js
 
@@ -32,3 +33,8 @@ export default {
 ### lil-gui → Three.js control
 
 - https://www.npmjs.com/package/lil-gui
+  
+### GSAP
+
+- [https://www.npmjs.com/package/lil-gui](https://gsap.com/docs/v3/Installation/)https://gsap.com/docs/v3/Installation/
+
