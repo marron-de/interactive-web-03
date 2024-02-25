@@ -49,3 +49,8 @@ export default {
 - https://humus.name/ ⇒ [Textures](https://humus.name/index.php?page=Textures)
 - https://polyhaven.com/
 - https://pixexid.com/
+
+
+### 3D character
+- https://www.mixamo.com/#/
+- https://nilooy.github.io/character-animation-combiner/
