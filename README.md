@@ -42,3 +42,10 @@ export default {
 ### Sketchfab 
 
 - https://sketchfab.com/
+
+
+### assets
+
+- https://humus.name/ ⇒ [Textures](https://humus.name/index.php?page=Textures)
+- https://polyhaven.com/
+- https://pixexid.com/
